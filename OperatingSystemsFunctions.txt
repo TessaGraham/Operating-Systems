@@ -2,3 +2,8 @@ There are four operating system functions: Processor Manager, Memory Manager, De
 manages real time, and gives the device the capability of multitasking. There are three states that this manager can be in, these
 are Running, Ready, and Blocked. This manager controls the central processing unit. The Processor Manager usually works with the
 Memory Manager, the File Manager, and the Device manager. 
+The Mmeory Manager is a operating system function that provides ways to fulfills allocatioon requests, and frees the space when 
+the device no longer needs it. Memory requests are fulfiled by locating empty storage pockets from an area called the "heap".
+There are multiple allocation medhods that the system uses, some of these include efficiency, implementations,
+and other allocations. Implementations use a reference to access memory indirectly, this method is intertwined with the kernel. 
+The kernel is a computer program that has control over everything in that system. 
