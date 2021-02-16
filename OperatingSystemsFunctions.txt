@@ -1,0 +1,4 @@
+There are four operating system functions: Processor Manager, Memory Manager, Device Maanger, and File Manager. Processor Manager
+manages real time, and gives the device the capability of multitasking. There are three states that this manager can be in, these
+are Running, Ready, and Blocked. This manager controls the central processing unit. The Processor Manager usually works with the
+Memory Manager, the File Manager, and the Device manager. 
